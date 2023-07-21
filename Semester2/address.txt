@@ -1,0 +1,5 @@
+Ali:Johar Town ,Lahore :030012345678
+Ahmad:Wapda Town,Lahore : 03012345678
+Muhammad Ali:Abcdef,Lahore : 03559876541
+Ahmad Hassan: Allama Iqbal Town,Lahore : 03213456789
+Justin : Raiwand,Lahore : 03101234567

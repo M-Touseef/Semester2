@@ -1,0 +1,6 @@
+Marks of student 1 is 20
+Marks of student 2 is 30
+Marks of student 3 is 20
+Marks of student 4 is 33
+Marks of student 5 is 60
+Marks of student 6 is 58

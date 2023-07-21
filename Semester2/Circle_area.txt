@@ -1,0 +1,5 @@
+After Calculating area :
+Circle1 , 5 : 78.57
+Circle2 , 10 : 314.28
+Circle3 , 4 : 50.2848
+, 4 : 50.2848
